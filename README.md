@@ -27,4 +27,8 @@ Given a set of vertices of lines, draw the lines along with outlines.
 * Use e r keys for rotating the selected triangle. 
 ## Museum
 ![alt text](https://github.com/powerseed/Computer-Graphic-using-Processing/blob/master/museum/museum.png "Logo Title Text 1")
-
+#### Interaction:
+* W and S to move.
+* A and D to rotate by 90 degrees horizantally.
+* Draging mouse to change the point of view by any degrees.
+* One of the exhibition is interactable.
