@@ -13,6 +13,7 @@
 * space: the claw grabs. 
 ## OutlineStrip
 ![alt text](https://github.com/powerseed/Computer-Graphic-using-Processing/blob/master/OutlineStrip/Outline%20Strip.png "Logo Title Text 1")
+<br>
 Given a set of vertices of lines, draw the lines along with outlines.
 ## TriangleComposer
 ![alt text](https://github.com/powerseed/Computer-Graphic-using-Processing/blob/master/TriangleComposer/TriangleComposer.png "Logo Title Text 1")
